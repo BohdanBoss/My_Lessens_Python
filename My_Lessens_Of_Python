@@ -1,0 +1,85 @@
+# LESSEN 1
+# Comment
+# print("Result: ", 5 // 3)
+# print('Result:', max(5, 6, 3, 0, 2, -3, 5))
+# print("Result: ", round(5 / 3))
+# print("Result: ", 7, 15, sep="", end="!\n")
+# print('Second \' \t \\ \nl\ni\nn\ne')
+
+input("Введите с возраст: ")
+
+# LESSEN 2
+# number = 5  # int
+#
+# digit = 4.588689864  # float
+# word = "Result"  # strung
+# boolean = True  # bool
+#
+# str_num = '5'  # string
+#
+# # print(word + str(digit) )
+#
+# print(word + str(number + int(str_num)))
+#
+# del number
+#
+# number = 7
+# print("Result: ", number)
+
+num1 = int(input("Ввидите првое число: "))
+
+num2 = int(input("Ввидите вотрое число: "))
+
+num1 += 5
+
+print("Result:", num1 + num2)
+print("Result:", num1 - num2)
+print("Result:", num1 / num2)
+print("Result:", num1 * num2)
+print("Result:", num1 ** num2)  # Возвидение в степень!
+print("Result:", num1 // num2)  # Деление с остатком целого числа!
+
+word = "Hi"
+print(word * 2)
+
+word = 45
+
+# LESSE 3
+
+# if 5 == 5:
+#     print("Yes")
+#     print("!!!")
+
+# user_data = int(input("Ввидите числа; "))
+#
+# isHappy = True
+#
+# if isHappy or user_data == 6:
+#     print("User is Happy! ")
+# elif user_data == 5:
+#     print("Number is 5 ")
+# elif user_data == 7:
+#     print("Number is 5 ")
+# else:
+#     print("User is Unhappy")
+
+#
+# if user_data != 5:
+#     print("We's here! ")
+#     if user_data > 6:
+#         print("Number the bigger the 5 ")
+
+data = input()
+
+number = 5 if data == "Five" else 0
+
+# if data == "Five":
+#     number = 5
+# else:
+#     number = 0
+print(number)
+
+
+
+
+
