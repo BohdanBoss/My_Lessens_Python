@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39428e13-3c6f-4818-83f1-5568f353899a" name="Changes" comment="">
+    <list default="true" id="39428e13-3c6f-4818-83f1-5568f353899a" name="Changes" comment="Added file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/My_Lessens_Of_Python" beforeDir="false" afterPath="$PROJECT_DIR$/My_Lessens_Of_Python" afterDir="false" />
     </list>
@@ -63,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662127952885</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added file">
+      <created>1662574662533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662574662534</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added file" />
   </component>
 </project>
