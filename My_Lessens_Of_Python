@@ -157,6 +157,33 @@ while i < n:
     print(user_list)
 
 
+# Lessen 5
+
+# vord = "Fotball, basketball, sakate"
+# # print(vord.count("!"))
+# # print(vord.upper())
+# # print(vord.isupper())
+# # print(vord.lower())
+# # print(vord.islower())
+# # print(vord.capitalize())
+# # print(vord.find("p"))
+# hobby = vord.split(',')
+# # print(hobby[1])
+#
+# for i in range(len(hobby)):
+#     hobby[i] = hobby[i].capitalize()
+#
+# result = ", ".join(hobby)
+# print(result)
+
+# vord = "Football"
+#
+# print(vord[1:-1:3])
+
+lis = [6, 4, "Stroka", True, 6.5]
+print(lis[2])
+print(lis[::])
+
 
 
 
